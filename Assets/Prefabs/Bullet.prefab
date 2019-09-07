@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 2319224289016310626}
   - component: {fileID: 2319224289016310627}
   - component: {fileID: 2319224289016310624}
-  - component: {fileID: 7688920392705319235}
+  - component: {fileID: 8829865283918253582}
   m_Layer: 0
   m_Name: Bullet
   m_TagString: Untagged
@@ -246,7 +246,7 @@ CircleCollider2D:
   m_Offset: {x: 0.05211079, y: 0.39951587}
   serializedVersion: 2
   m_Radius: 1.4533575
---- !u!114 &7688920392705319235
+--- !u!114 &8829865283918253582
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
