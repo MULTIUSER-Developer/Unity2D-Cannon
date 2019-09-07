@@ -66,9 +66,9 @@ TrailRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingLayerID: 914773221
+  m_SortingLayer: 4
+  m_SortingOrder: 1
   m_Time: 1
   m_Parameters:
     serializedVersion: 3
@@ -197,7 +197,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 914773221
   m_SortingLayer: 4
-  m_SortingOrder: -2
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 329bdd094dfc172469f6f11e613c4128, type: 3}
   m_Color: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 1}
   m_FlipX: 0
@@ -255,7 +255,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 2319224289016310636}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 32191b68aa989504081dadef7b06db6c, type: 3}
+  m_Script: {fileID: 11500000, guid: 8382a2addff6db34cb704c725409b20c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  item: {fileID: 2319224289016310636}
